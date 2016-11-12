@@ -1,4 +1,5 @@
 #ใบงานที่ 9
+# นายวีรภัทร	แก่นจันทร์	57030222
 ##การเขียนโปรแกรมกราฟฟิกส์ด้วย GDI+ (1)
 ##1.	กล่าวนำ
 
@@ -134,3 +135,5 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 </p>  <p align="center">
 <img src="https://github.com/weerapat1995/LAB-09/blob/master/imgs/9.13.png">
 </p> 
+
+# นายวีรภัทร	แก่นจันทร์	57030222
