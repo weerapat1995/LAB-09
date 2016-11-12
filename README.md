@@ -137,3 +137,4 @@ GDI+ (Graphics Device Interface Plus) เป็นกราฟฟิกส์ไ
 </p> 
 
 # นายวีรภัทร	แก่นจันทร์	57030222
+
